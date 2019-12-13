@@ -1,0 +1,42 @@
+body{background:#F2F2F2;
+font-family:"Lucida Console";}
+.kalkulator{
+width:335px;
+background:#2F495A;
+margin:100px auto;
+border-radius:5px;
+padding:10px 20px 50px 20px;
+box-shadow:0px 10px 20px 0px #D1D1D1;
+}
+.judul{
+font-weight:normal;
+text-align:center;
+color:#eee;
+}
+.bil{
+width:300px;
+font-size:16pt;
+border-radius:5px;
+margin:5px;
+border:none;
+padding:10px;
+}
+.tombol{
+padding:10px 20px;
+background-color:#EC5159;
+border-top:none;
+border-left:nnone;
+border-right:nnone;
+color:#eee;
+border-radius:5px;
+font-size:15pt;
+border-bottom:4px solid #BF3D3d;
+}
+.opt{
+width:215px;
+font-size:16pt;
+border-radius:5px;
+margin:5px;
+border:none;
+padding:10px;
+}
